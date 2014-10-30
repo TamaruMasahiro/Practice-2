@@ -1,1 +1,1 @@
-<?php print "practice ver1"?>
+<?php print "practice ver2"?>
